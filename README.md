@@ -15,6 +15,7 @@ Clean architecture, atomic click tracking, thread-safe code generation, and full
 ## Live Demo
 
 > Run locally in under 2 minutes — see [Getting Started](#getting-started)
+> ![LinkSnip UI](screenshot.png)
 
 | Feature | URL |
 |---|---|
